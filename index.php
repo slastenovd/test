@@ -1,6 +1,6 @@
 <?
 
-echo "test4wkfmwm2";
+echo "test42";
 
 
 //phpinfo();
